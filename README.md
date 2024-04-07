@@ -1,6 +1,6 @@
 # Web Scraping App
 
-Web Scraping vessels from MarineTraffic to a json file. Works only on Chrome browser.
+Web Scraping vessels from MarineTraffic to a json file. Works only on Chrome browser. The app may break if you have slow internet connection.
 
 ## Requirements
 - Python <= ***3.9.13***
@@ -9,8 +9,8 @@ Web Scraping vessels from MarineTraffic to a json file. Works only on Chrome bro
 ## Installation
 
 ```bash
-pip install selenium
-pip install undetected_chromedriver
+pip install selenium # or py -m pip install selenium
+pip install undetected_chromedriver # or py -m pip install undetected_chromedriver
 ```
 
 ## Usage
