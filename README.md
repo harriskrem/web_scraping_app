@@ -1,6 +1,6 @@
 # Web Scraping App
 
-Web Scraping vessels from MarineTraffic to a json file. Works only on Chrome browser. The app may break if you have slow internet connection.
+Web Scraping nine random vessels from MarineTraffic to a json file. Works only on Chrome browser. The app may break if you have slow internet connection.
 
 ## Requirements
 - Python <= ***3.9.13***
